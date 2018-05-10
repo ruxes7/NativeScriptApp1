@@ -1,3 +1,3 @@
 exports.pageLoaded = function() {
-    console.log("Hellow World!!");
+    console.log("Hellow World!");
 };
